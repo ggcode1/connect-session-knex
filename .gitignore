@@ -13,3 +13,4 @@ node_modules
 
 *.sqlite
 npm-debug.log
+/.idea

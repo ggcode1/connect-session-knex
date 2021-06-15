@@ -1,4 +1,4 @@
-import * as Knex from 'knex';
+import { Knex } from 'knex';
 import expressSession, { Store } from 'express-session';
 
 declare module 'connect-session-knex' {
